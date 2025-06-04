@@ -1,0 +1,12 @@
+---
+title: "Wouter's website"
+editor: source
+project:
+  type: website
+  output-dir: docs
+---
+
+## Landing page
+
+Add info here
+
