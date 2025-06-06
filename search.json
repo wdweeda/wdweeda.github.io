@@ -4,33 +4,33 @@
     "href": "about.html",
     "title": "Wouter Weeda, PhD",
     "section": "",
-    "text": "About"
+    "text": "I am an associate professor in neuroimaging statistics at the department of Psychology of Leiden University. Basically, I teach statistics and develop and improve methods for the analysis of brain imaging data. The core concept that drives both my teaching and research is variability. For teaching this is variability in how students learn and understand statistical concepts. I really enjoy coming up with new ways to explain and visualize this. Regarding research I am interested in both within-subjects variability (e.g., trial-to-trial variability of brain responses), and individual differences (e.g., heterogeneity of brain responses within groups). My current research focuses on both spatial (i.e., the analysis of statistical brain maps) and temporal variability (i.e, the analysis of differences in the hemodynamic response)."
   },
   {
-    "objectID": "about.html#about",
-    "href": "about.html#about",
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
     "title": "Wouter Weeda, PhD",
     "section": "",
-    "text": "About"
+    "text": "I am an associate professor in neuroimaging statistics at the department of Psychology of Leiden University. Basically, I teach statistics and develop and improve methods for the analysis of brain imaging data. The core concept that drives both my teaching and research is variability. For teaching this is variability in how students learn and understand statistical concepts. I really enjoy coming up with new ways to explain and visualize this. Regarding research I am interested in both within-subjects variability (e.g., trial-to-trial variability of brain responses), and individual differences (e.g., heterogeneity of brain responses within groups). My current research focuses on both spatial (i.e., the analysis of statistical brain maps) and temporal variability (i.e, the analysis of differences in the hemodynamic response)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Wouter Weeda, PhD",
     "section": "",
-    "text": "Hello world.",
+    "text": "Welcome to my academic website. Here you will find information about my research and teaching.\n\n\n\n\nWe are hosting an educational course called “Where is my signal? An interactive course in incorporating spatial information in fMRI analysis” at the annual meeting of the Organization of Human Brain Mapping (OHBM) in Brisbane! The materials for this course can be found here.",
     "crumbs": [
-      "Overview"
+      "Home"
     ]
   },
   {
-    "objectID": "index.html#hello-world",
-    "href": "index.html#hello-world",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
     "title": "Wouter Weeda, PhD",
     "section": "",
-    "text": "Hello world.",
+    "text": "Welcome to my academic website. Here you will find information about my research and teaching.\n\n\n\n\nWe are hosting an educational course called “Where is my signal? An interactive course in incorporating spatial information in fMRI analysis” at the annual meeting of the Organization of Human Brain Mapping (OHBM) in Brisbane! The materials for this course can be found here.",
     "crumbs": [
-      "Overview"
+      "Home"
     ]
   },
   {
