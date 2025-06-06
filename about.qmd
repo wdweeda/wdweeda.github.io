@@ -6,6 +6,6 @@ format:
     title: ""
 ---
 
-## About
+## About me
 
-About
+I am an associate professor in neuroimaging statistics at the department of Psychology of Leiden University. Basically, I teach statistics and develop and improve methods for the analysis of brain imaging data. The core concept that drives both my teaching and research is **variability**. For teaching this is variability in how students learn and understand statistical concepts. I really enjoy coming up with new ways to explain and visualize this. Regarding research I am interested in both within-subjects variability (e.g., trial-to-trial variability of brain responses), and individual differences (e.g., heterogeneity of brain responses within groups). My current research focuses on both spatial (i.e., the analysis of statistical brain maps) and temporal variability (i.e, the analysis of differences in the hemodynamic response).

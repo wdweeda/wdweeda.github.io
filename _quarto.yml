@@ -7,7 +7,7 @@ website:
     background: secondary
     search: true
     left: 
-      - text: "Overview"
+      - text: "Home"
         href: index.qmd
       - about.qmd
       - publications.qmd
@@ -20,7 +20,7 @@ website:
     style: "floating"
     search: false
     contents:
-      - text: "Overview"
+      - text: "Home"
         href: index.qmd
      
     tools: 

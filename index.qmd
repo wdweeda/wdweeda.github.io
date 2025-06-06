@@ -1,11 +1,16 @@
 ---
-title: "Overview"
+title: "Home"
 type: website
 format:
   html:
     title: ""
 ---
 
-## Hello world
+## Welcome
 
-Hello world.
+Welcome to my academic website. Here you will find information about my research and teaching. 
+
+### Latest news
+
+#### June 6th 2025
+We are hosting an educational course called ["Where is my signal? An interactive course in incorporating spatial information in fMRI analysis"](https://ww6.aievolution.com/hbm2501/Events/viewEv?ev=2297) at the [annual meeting](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229) of the Organization of Human Brain Mapping (OHBM) in Brisbane! The materials for this course can be found [here](https://wdweeda.github.io/ohbm2025_educational_course/ "OHBM Educational course"). 
