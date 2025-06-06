@@ -1,16 +1,50 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Wouter Weeda, PhD",
+    "section": "",
+    "text": "About"
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Wouter Weeda, PhD",
+    "section": "",
+    "text": "About"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Wouter’s website",
+    "title": "Wouter Weeda, PhD",
     "section": "",
-    "text": "Well hello there."
+    "text": "Hello world.",
+    "crumbs": [
+      "Overview"
+    ]
   },
   {
     "objectID": "index.html#hello-world",
     "href": "index.html#hello-world",
-    "title": "Wouter’s website",
+    "title": "Wouter Weeda, PhD",
     "section": "",
-    "text": "Well hello there."
+    "text": "Hello world.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Wouter Weeda, PhD",
+    "section": "",
+    "text": "Pubs here"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Wouter Weeda, PhD",
+    "section": "",
+    "text": "Pubs here"
   }
 ]

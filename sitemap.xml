@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wdweeda.github.io/about.html</loc>
+    <lastmod>2025-06-06T07:30:00.766Z</lastmod>
+  </url>
+  <url>
     <loc>https://wdweeda.github.io/index.html</loc>
-    <lastmod>2025-06-04T13:29:56.109Z</lastmod>
+    <lastmod>2025-06-06T07:29:17.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wdweeda.github.io/publications.html</loc>
+    <lastmod>2025-06-06T07:30:03.667Z</lastmod>
   </url>
 </urlset>
